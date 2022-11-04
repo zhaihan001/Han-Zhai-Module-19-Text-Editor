@@ -41,3 +41,4 @@ THEN I should have proper build scripts for a webpack application
 - Application will automatically load on browser
 
 Heroku URL:
+https://ancient-plateau-34087.herokuapp.com/
